@@ -1,0 +1,2 @@
+# queriesinprojectvoldemort
+There are none good places to find information about Project Voldemort. Actually, I recommend you to not use Project Voldemort. But, if you must, here you will find some simple examples to work with. Have fun. P/D: We werent able to make the python and C clients to work, so we had to do this in Java. My team, myself included, hates Java, but we had no choice on the matter either.
