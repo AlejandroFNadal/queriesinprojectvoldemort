@@ -1,0 +1,9 @@
+Lista de Consultas
+
+Esquema:
+test(diafecha,direccion,distrito,seccion,manzana,descripcion_del_crimen, codigocrimen,latitud,longitud) (todos string)
+1.Devolver todos los crimenes que ocurrieron en todos los distritos
+2.Devolver todos los crimenes que ocurrieron en mas de 30 manzanas
+3.Devolver todos los crimenes que ocurrieron entre dos latitudes
+4.Devolver un listado de los crimenes que han ocurrido
+5. 
